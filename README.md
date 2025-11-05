@@ -1,9 +1,3 @@
-Absolutely ✅ Here’s a complete and professional **`README.md`** file for your **PhotoAuth** project — written for GitHub or deployment documentation.
-
-It explains setup, backend, frontend, deployment, and model logic clearly.
-
----
-
 # 🧠 PhotoAuth — AI-Powered Image Authenticity Analyzer
 
 **PhotoAuth** is a full-stack application that detects **AI-generated or edited images** using advanced neural models, ELA (Error Level Analysis), and metadata inspection.
